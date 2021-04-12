@@ -1,14 +1,5 @@
 package net.frindex.kotlinandroidxrecycleviewsimplesqlite
 
-/**
- *
- * File: MainActivity.kt
- * Version 1.0
- * Date 24.10.2020
- * Copyright (c) 2020 S Ditlefsen
- * License: http://opensource.org/licenses/gpl-license.php GNU Public License
- *
- */
 
 import android.database.Cursor
 import androidx.appcompat.app.AppCompatActivity
